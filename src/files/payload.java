@@ -50,11 +50,13 @@ public class payload {
 				"      \"title\": \"RPA\",\r\n" + 
 				"      \"price\": 45,\r\n" + 
 				"      \"copies\": 10\r\n" + 
+				" \"ssn\": 12323210\r\n" +
 				"    },\r\n" + 
 				"     {\r\n" + 
 				"      \"title\": \"Appium\",\r\n" + 
 				"      \"price\": 36,\r\n" + 
 				"      \"copies\": 7\r\n" + 
+				" \"ssn\": 123232asasa10\r\n" +
 				"    }\r\n" + 
 				"    \r\n" + 
 				"    \r\n" + 
